@@ -1,0 +1,23 @@
+.card{
+    border-color: black;
+    }
+    
+    #div1{
+        background: yellowgreen;
+    height: 100px;
+    font-family: 'Vegur, PT Sans, Verdana, sans-serif', ui-rounded;
+    }
+    
+    #tdl{
+        font-family: 'Vegur, PT Sans, Verdana, sans-serif', ui-rounded;
+    }
+    
+    #td{
+        font-size: 5px;
+        color: #b6bacb; 
+        font-weight: 500px;
+        padding: 8px;
+        font-family: 'Vegur, PT Sans, Verdana, sans-serif', ui-rounded;
+        ;
+    }
+    
